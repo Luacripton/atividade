@@ -6,7 +6,7 @@
 - ✅ Funcionalidade 3
 
 
-## **Tabela de Amigos**
+## **Tabela de Alunos**
 
 | Nome     | Idade | Profissão  |
 |----------|------|-------------|
