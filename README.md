@@ -5,8 +5,13 @@
 - ✅ Funcionalidade 2
 - ✅ Funcionalidade 3
 
-## **Instalação**
-Para instalar as dependências, execute:
+## *Instalação*
+Clone o repositório e instale as dependências:
+
+```bash
+git clone https://github.com/Luacripton/meu-projeto.git
+cd meu-projeto
+npm install
 
 ```bash
 npm install
