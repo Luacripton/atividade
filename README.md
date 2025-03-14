@@ -20,7 +20,7 @@ npm install
 | Pedro    | 28   | Desenvolvedor |
 
 ## **Imagem**
-![Imagem Aleatória](https://via.placeholder.com/300)
+![Imagem Aleatória](3ac58dbe50be21503ddc8ef974b097b7.jpg)
 
 ## **Meu Perfil no GitHub**
 [Clique aqui para acessar meu GitHub](https://github.com/Luacripton)
